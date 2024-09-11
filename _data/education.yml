@@ -1,13 +1,15 @@
 # Degree
-- degree: Bachelor of Arts, Human Rights
-  uni: Yale University
-  year: 2004 &mdash; 2008
-  awards:
-    - award: Summa Cumme Laude graduate
-  summary: If you had any meaningful roles at college, feel free to write about them here
+- degree: PhD i fysik og nanoteknologi
+  uni: Danmarks Tekniske Universitet (DTU)
+  year: 2014 &mdash; 2018
+  summary: Teknologiudvikling og videnskabelig formidling.<ul class="resume-item-list"> <li> Valgfag i didaktik og avancerede statistiske metoder.</li> <li> Holdt foredrag på internationale konferencer i Haag (2015) og Shanghai (2016, inviteret foredrag).</li> <li> Underviste kandidat-studerende i fysik-kurser, var med-vejleder på to speciale-projekter, og koordinerede forskningsgruppens studentermedhjælpere.</li></ul>
+  
+- degree: MSc i nanobioscience
+  uni: Syddansk Universitet (SDU)
+  year: 2010 &mdash; 2013
+  summary: 'I min specialeafhandling lavede jeg automatisk data-analyse på mikroskop-billeder i realtid.<ul class="resume-item-list"> <li> Jeg brugte ekstra tid på kursus-delen af specialet, hvor jeg som frivillig hjalp flere af instituttets postdocs med automatiseret data-analyse.</li><li>Vægtet karaktergennemsnit: 11.7</li></ul>'
 
-- degree: High School Diploma
-  uni: Springfield High School
-  year: 2004
-  award: Most likely to succeed
-  summary: You can choose to have either a single or multiple awards
+- degree: BSc i nanobioscience
+  uni: Syddansk Universitet (SDU)
+  year: 2007 &mdash; 2010
+  summary: Denne tværfaglige uddannelse gav mig et solidt fundament i fysik, kemi og biologi.<ul class="resume-item-list"> <li> Under mit bachelor-projekt brugte jeg atomar-kraft mikroskopi (AFM) til at undersøge interaktionskræfter, såsom bindings-affiniteter for DNA-aptamerer.</li> <li> Jeg udviklede MATLAB-algoritmer til automatisk data-analyse på store AFM-datasæt.</li></ul>

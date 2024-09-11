@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html>
 
   {% include head.html %}
@@ -13,7 +13,7 @@
 
         <!-- You can turn off the avatar in _config.yml by setting to false -->
         {% if site.resume_avatar == 'true' %}
-        <img src="images/avatar.jpg" alt="my photo" class="avatar no-print" itemprop="image">
+        <img src="images/ktolbol2.jpeg" alt="my photo" class="avatar no-print" itemprop="image">
         {% endif %}
 
         <!-- Your name is defined in the _config.yml file -->
@@ -40,7 +40,7 @@
         </div>
 
         {% if site.resume_looking_for_work == 'yes' %}
-        <a href="mailto:{{ site.resume_contact_email }}" class="contact-button no-print" itemprop="email">Contact me</a>
+        <a href="mailto:{{ site.resume_contact_email }}" class="contact-button no-print" itemprop="email">Kontakt mig</a>
         {% elsif site.resume_looking_for_work == 'no' %}
         <a class="contact-button not-looking no-print">I'm not looking for work right now.</a>
         {% else %}
@@ -53,7 +53,7 @@
       <section class="content-section">
 
         <header class="section-header">
-          <h2>Experience</h2>
+          <h2>Erfaring</h2>
         </header>
 
         {% for job in site.data.experience %}
@@ -73,7 +73,7 @@
       <!-- begin Education -->
       <section class="content-section">
         <header class="section-header">
-          <h2>Education</h2>
+          <h2>Uddannelse</h2>
         </header>
 
         {% for education in site.data.education %}
@@ -101,7 +101,7 @@
       <!-- begin Projects -->
       <section class="content-section">
         <header class="section-header">
-          <h2>Projects</h2>
+          <h2>Projekter</h2>
         </header>
 
         {% for project in site.data.projects %}
@@ -122,7 +122,7 @@
       <section class="content-section">
 
         <header class="section-header">
-          <h2>Skills</h2>
+          <h2>Færdigheder</h2>
         </header>
         {% for skill in site.data.skills %}
         <div class="resume-item">
@@ -140,7 +140,7 @@
       <section class="content-section">
 
         <header class="section-header">
-          <h2>Recognition</h2>
+          <h2>Anerkendelse</h2>
         </header>
 
         {% for recognition in site.data.recognitions %}
@@ -160,7 +160,7 @@
       <section class="content-section">
 
         <header class="section-header">
-          <h2>Associations</h2>
+          <h2>Associationer</h2>
         </header>
 
         {% for association in site.data.associations %}
@@ -180,7 +180,7 @@
       <section class="content-section">
 
         <header class="section-header">
-          <h2>Outside Interests</h2>
+          <h2>Interesser</h2>
         </header>
 
         <div class="resume-item">
@@ -200,7 +200,7 @@
       <section class="content-section">
 
         <header class="section-header">
-          <h2>Additional Links</h2>
+          <h2>Yderligere Links</h2>
         </header>
 
         <div class="resume-item">
@@ -220,7 +220,7 @@
       <section class="content-section print-only">
 
         <header class="section-header">
-          <h2>Social Links</h2>
+          <h2>Sociale Links</h2>
         </header>
 
         <div class="resume-item">
@@ -230,11 +230,6 @@
       </section>
       <!-- end Print Social Links -->
       {% endif %}
-
-      <footer class="page-footer">
-        <p class="footer-line">Made by <a href="http://twitter.com/jglovier">@jglovier</a>. Fork me on <a href="https://github.com/jglovier/resume-template">GitHub</a>.</p>
-        <p class="footer-line">If this is your live resume, you can modify or remove this part. ;-)</p>
-      </footer>
 
     </div>
 
