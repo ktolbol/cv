@@ -2,34 +2,34 @@
 - company: Selvstændig
   position: "Datakonsulent"
   duration: September 2024 &mdash; Nu
-  summary: Jeg hjælper offentlige og private virksomheder med at skabe forretningsværdi fra deres data.
+  summary: Jeg hjælper offentlige og private virksomheder med at skabe forretningsværdi fra deres data, bl.a. med Ansible, Docker, ZeroMQ, GDAL/OGR, SQL, OpenCV, PyTorch, Tensorflow.
 
 - company: Selvbetalt orlov
   position: "Hjemmegående husfar"
   duration: Januar 2024 &mdash; August 2024
-  summary: Jeg besluttede mig for at tage en periode som "hjemmegående husfar" mens børnene er små. I denne periode lærte jeg desuden avanceret SQL, Unreal Engine, 3D-shaders, programmeringssproget Verse, samt infrastructure-as-code (Ansible) på Azure og AWS.
+  summary: Jeg besluttede mig for at tage en periode som "hjemmegående husfar" mens børnene var små. I denne periode lærte jeg desuden avanceret SQL, Unreal Engine, 3D-shaders, programmeringssproget Verse, samt infrastructure-as-code (Ansible) på Azure og AWS.
 
 - company: Alexandra Instituttet A/S
   position: Labchef
   duration:  Marts 2022 &mdash; December 2023
-  summary: Daglig leder for op til 12 IT-/data-specialister.<ul class="resume-item-list"><li>Projekt- og personale-ledelse, bl.a. ifm. den årlige produktion af nationale forårs-ortofoto for Styrelsen for Dataforsyning og Infrastruktur (SDFI).</li><li>Forretningsudvikling af virksomhedens ydelser, gennem brugerdrevet innovation i samarbejde med kunder.</li><li>Formidling af komplekse emner (såsom neurale netværk) på forståelig vis, både internt og eksternt.</ul>
+  summary: Daglig leder for op til 12 IT-/data-specialister.<ul class="resume-item-list"><li>Projekt- og personale-ledelse, bl.a. ifm. den årlige produktion af nationale forårs-ortofoto for Klimadatastyrelsen. Min ledelsesstil er "servant leadership".</li><li>Forretningsudvikling af virksomhedens ydelser, gennem brugerdrevet innovation i samarbejde med kunder. Udvikling af forretningsmodeller og go-to-market strategier.</li><li>Salg af komplekse IT-projekter, ansøgnings-skrivning og udbudsbesvarelse.</li><li>Formidling af komplekse emner (såsom neurale netværk), både internt og eksternt.</ul>
 
 - company: Alexandra Instituttet A/S
   position: Visual Computing Engineer
   duration: September 2018 &mdash; Februar 2022
-  summary: Data-analyse, software-udvikling og rådgivning.<ul class="resume-item-list"> <li> Hjalp offentlige og private virksomheder i forskelligartede brancher til at finde nye muligheder for at udnytte data i deres forretningskontekst.</li> <li> Udførte avanceret data-analyse, ofte på ustrukturerede data (f.eks. billed-data) med Python og deep-learning biblioteker som PyTorch og Tensorflow.</li></ul>
+  summary: Data-analyse, software-udvikling og rådgivning.<ul class="resume-item-list"> <li> Hjalp offentlige og private virksomheder i forskelligartede brancher til at finde nye muligheder for at udnytte data i deres forretningskontekst.</li><li>Udførte avanceret data-analyse, ofte på ustrukturerede data (f.eks. billed-data) med Python og deep-learning biblioteker som PyTorch og Tensorflow.</li><li>Udvikling af kodebaser til bl.a. geodata-manipulation (f.eks. geotiff, shapefiles) samt "content-based image retrieval" (også kendt som "query by image content (QBIC)").</li></ul>
 
 - company: Copenhagen Nanosystems ApS
   position: Medstifter og CTO
   duration: December 2015 &mdash; Juni 2018
-  summary: Jeg medstiftede denne startup for at kommercialisere et patent fra min PhD.<ul class="resume-item-list"> <li> Forretningsudvikling og funding, hvor jeg var med til at sikre et par millioner kr i investeringer.</li> <li> Kvalificerede til <a href="https://dtusciencepark.dk/futurebox/danish-tech-challenge/about/">Danish Tech Challenge</a>-konkurrencen, hvilket inkluderede et 5-måneders kursus i produktudvikling og forretningsudvikling.</li> <li> Skrev algoritmer til data-analyse i Python og implementede dem i en brugervenlig grafisk brugergrænseflade til slutbrugerne.</li> <li> Projektledelse af et hold på 7 medarbejdere og praktikanter indenfor fysik, molekylærbiologi og softwareudvikling.</li></ul>
+  summary: Jeg medstiftede denne startup for at kommercialisere et patent fra min PhD.<ul class="resume-item-list"> <li> Forretningsudvikling og funding, hvor jeg var med til at sikre et par millioner kr i investeringer.</li><li>Vi kvalificerede til <a href="https://dtusciencepark.dk/futurebox/danish-tech-challenge/about/">Danish Tech Challenge</a>-konkurrencen, hvor jeg bl.a. lærte meget om produktudvikling og forretningsudvikling.</li> <li>Skrev algoritmer til data-analyse i Python og implementede dem i en brugervenlig grafisk brugergrænseflade til slutbrugerne.</li> <li>Projektledelse af et hold på 7 medarbejdere og praktikanter indenfor fysik, molekylærbiologi og softwareudvikling.</li></ul>
 
 - company: DTU Nanotech
   position: PhD-studerende
   duration: August 2014 &mdash; Januar 2018
-  summary: Eksperimentelt projekt indenfor anvendt fysik, med det formål at finde nyskabende anvendelser af en optisk nano-sensor.<ul class="resume-item-list"> <li> Udviklede data-analyse metoder til estimering af diffusions-koefficienter af proteiner og små molekyler som sukrose.</li> <li> Udviklede en laboratorie-journal i Excel for sporbarhed og standardisering.</li> <li> Under min ph.d. medforfattede jeg otte peer-reviewed artikler og et patent.</li> <li> Udviklede modelsystemer til både hydrodynamiske og elektromagnetiske simulationer.</li> <li> Skrev algoritmer til spektral billeddannelse af planteceller.</li></ul>
+  summary: Eksperimentelt projekt indenfor anvendt fysik, med det formål at finde nyskabende anvendelser af en optisk nano-sensor.<ul class="resume-item-list"> <li>Udviklede data-analyse metoder til estimering af molekylers diffusions-koefficienter, i et mikrovæskesystem som jeg selv designede og fabrikerede i renrum.</li> <li>Udviklede en laboratorie-journal i Excel for sporbarhed fra illustration, over algoritme-versioner, til måleparametre og de enkelte flasker med reagenser.</li> <li>Foretog hydrodynamiske og elektromagnetiske simulationer på HPC-cluster.</li><li>Under min ph.d. medforfattede jeg otte peer-reviewed artikler og et patent.</li> </ul>
 
 - company: DTU Nanotech
   position: Forskningsassistent
   duration: Januar 2014 &mdash; Juli 2014
-  summary: Ansat til at automatisere et kompliceret biofysisk laboratorie-eksperiment ved hjælp af data-analyse i realtid.<ul class="resume-item-list"> <li> Epifluorescens-microskopi med EMCCD kamera for enkelt-foton følsomhed.</li> <li> Udviklede realtids-analyse på billeder af enkelte metafase-kromosomer vha. computer vision i Labview.</li></ul>
+  summary: Ansat til at automatisere et vanskeligt biofysisk laboratorie-eksperiment.<ul class="resume-item-list"> <li>Udviklede computer vision software til segmentering af individuelle metafase-kromosomer i realtid, på epifluorescens-microskop med EMCCD-kamera.</li> <li>Kobling af computer vision analyse til skræddersyet LabVIEW-software for PID kontrol-logik, for aktuering af luft-tryk med pulse-width modulation (PWM).</li></ul>
