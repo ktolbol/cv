@@ -17,7 +17,7 @@
 - company: Alexandra Instituttet A/S
   position: Visual Computing Engineer
   duration: September 2018 &mdash; Februar 2022
-  summary: Data-analyse, software-udvikling og rådgivning.<ul class="resume-item-list"> <li> Hjalp offentlige og private virksomheder i forskelligartede brancher til at finde nye muligheder for at udnytte data i deres forretningskontekst.</li><li>Udførte avanceret data-analyse, ofte på ustrukturerede data (f.eks. billed-data) med Python og deep-learning biblioteker som PyTorch og Tensorflow.</li><li>Udvikling af kodebaser til bl.a. geodata-manipulation (f.eks. geotiff, shapefiles) samt "content-based image retrieval" (også kendt som "query by image content (QBIC)").</li></ul>
+  summary: Data-analyse, software-udvikling og rådgivning.<ul class="resume-item-list"> <li> Hjalp offentlige og private virksomheder i forskelligartede brancher til at finde nye muligheder for at udnytte data i deres forretningskontekst.</li><li>Udførte avanceret data-analyse, ofte på ustrukturerede data (f.eks. billed-data) med Python og deep-learning biblioteker som PyTorch og Tensorflow.</li><li>Udvikling af kodebaser til bl.a. geodata-manipulation (f.eks. geotiff, shapefiles) samt "content-based image retrieval", også kendt som "query by image content (QBIC)".</li></ul>
 
 - company: Copenhagen Nanosystems ApS
   position: Medstifter og CTO
