@@ -1,6 +1,6 @@
 # Jobs
-- company: Selvstændig
-  position: "Datakonsulent"
+- company: Fronesio
+  position: "Selvstændig datakonsulent"
   duration: September 2024 &mdash; Nu
   summary: Jeg hjælper offentlige og private virksomheder med at skabe forretningsværdi fra deres data, bl.a. med Ansible, Docker, ZeroMQ, GDAL/OGR, SQL, OpenCV, PyTorch, Tensorflow.
 
